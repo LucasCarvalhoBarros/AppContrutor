@@ -18,8 +18,8 @@ export const metadata: Metadata = {
   description: 'App para controle de medição das atividades das obras de construção civil',
   icons: {
     icon: '/favicon.ico',
-    shortcut: '../logo_construtora-vital.png',
-    apple: '../logo_construtora-vital.png',
+    shortcut: '/logo_construtora-vital.png',
+    apple: '/logo_construtora-vital.png',
   },
   // themeColor: '#1E40AF',
 };
